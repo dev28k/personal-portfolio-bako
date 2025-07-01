@@ -1,0 +1,2 @@
+(this.webpackJsonpbako=this.webpackJsonpbako||[]).push([[6],{125:function(t,a,s){"use strict";s.r(a),a.default=s.p+"static/media/the-ugly-truth-about-design.a6c056de.md"}}]);
+//# sourceMappingURL=6.c07108f9.chunk.js.map
